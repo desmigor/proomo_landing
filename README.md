@@ -1,2 +1,1 @@
-# proomo_landing
-Proomo Company Landing Page
+# Proomo Company Landing Page
