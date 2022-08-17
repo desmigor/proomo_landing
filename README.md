@@ -1,6 +1,6 @@
 # Proomo Landing Page
 
-This is a landing page implemented for React practice. It was deployed on Herokuapp. Available on [Proomo Landing](https://proomo.herokuapp.com/) .
+This is a landing page implemented for React practice. It was deployed on Herokuapp. Available on [Proomo Landing](https://proomo.herokuapp.com/).
 
 ## Project Stack
 - React Javascript Library
