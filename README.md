@@ -1,10 +1,8 @@
-# Proomo Landing Page
+# Proomo Company
 
-This is a landing page implemented for React practice. It was deployed on Herokuapp. Available on [Proomo Landing](https://proomo.herokuapp.com/).
+This is a landing page developed in React as an aside project for fun. It's deployed on Netlify. Available at [Proomo Landing Page](hhttps://proomo.netlify.app/).
 
 ## Project Stack
 - React Javascript Library
 - Boilerplate using 'create-react-app'
 - Icons from React Icons Component
-
-Credits to Igor Mpore
