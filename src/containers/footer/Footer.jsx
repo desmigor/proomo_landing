@@ -40,7 +40,7 @@ function Footer() {
             </div>
 
             <div className="proomo__footer-copyright">
-                <p>@2021 PROOMO. All rights reserved.</p>
+                <p>&copy; 2021 Igor Mpore - <a href="https://www.desmigor.com/" target="blank">www.desmigor.com</a></p>
             </div>
         </div>
     )
