@@ -1,8 +1,15 @@
 # Proomo Company
 
-This is a landing page developed in React as an aside project for fun. It's deployed on Netlify. Available at [Proomo Landing Page](hhttps://proomo.netlify.app/).
+This repository is for a PROOMO Company landing page concept which deals with AI. It's deployed on Netlify and you can view the tech stack below.
 
-## Project Stack
-- React Javascript Library
+## [View Live Site](https://proomo.netlify.app/)
+
+![](./src/assets/home-img.png)
+
+
+## Stack
+- HTML
+- CSS
+- React JS
 - Boilerplate using 'create-react-app'
 - Icons from React Icons Component
